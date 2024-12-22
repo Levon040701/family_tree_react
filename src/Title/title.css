@@ -1,0 +1,12 @@
+.title h1 {
+    margin-bottom: 1.5rem;
+    color: red;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.title h3 {
+    color: midnightblue;
+    text-transform: uppercase;
+    text-align: center;
+}
